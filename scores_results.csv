@@ -1,0 +1,101 @@
+File_ID,Model,Category,Score (4080),Score (5080)
+File_1,LLaVA Llama3 8B,Recall,78.5 ,96.3 
+File_2,Llama2 7B,Precision,73.5 ,97.4 
+File_3,Llama3 8B,Recall,85.7 ,96.0 
+File_4,Llama2 13B,F1-Score,82.5 ,97.2 
+File_5,Llama2 7B,Precision,94.5 ,98.3 
+File_6,Llama2 13B,F1-Score,87.5 ,97.1 
+File_7,Llama3 8B,Recall,87.1 ,97.7 
+File_8,Llama3.1 8B,Recall,94.6 ,97.1 
+File_9,LLaVA Llama3 8B,Precision,75.9 ,95.5 
+File_10,Llama3 8B,F1-Score,83.2 ,98.0 
+File_11,LLaVA Llama3 8B,F1-Score,85.9 ,96.9 
+File_12,Llama2 13B,Precision,88.7 ,97.6 
+File_13,Llama2 7B,F1-Score,88.6 ,97.4 
+File_14,Llama2 13B,Precision,92.2 ,95.8 
+File_15,Llama2 13B,Precision,78.6 ,95.5 
+File_16,Llama3.1 8B,Recall,87.6 ,97.6 
+File_17,Llama2 7B,Recall,82.8 ,98.8 
+File_18,Llama3.1 8B,Recall,89.8 ,98.1 
+File_19,Llama2 7B,Precision,70.6 ,98.0 
+File_20,Llama3 8B,Precision,73.8 ,98.2 
+File_21,Llama2 13B,Precision,86.3 ,99.2 
+File_22,LLaVA Llama3 8B,Precision,86.0 ,96.9 
+File_23,Llama3 8B,F1-Score,99.4 ,98.9 
+File_24,Llama3.1 8B,Recall,96.0 ,97.1 
+File_25,Llama2 7B,Recall,73.7 ,96.8 
+File_26,Llama2 13B,F1-Score,91.4 ,98.4 
+File_27,Llama3.1 8B,Precision,89.4 ,99.3 
+File_28,Llama2 7B,Recall,88.4 ,99.8 
+File_29,Llama2 13B,Precision,90.4 ,98.0 
+File_30,LLaVA Llama3 8B,Recall,82.1 ,96.9 
+File_31,Llama2 7B,Precision,72.2 ,95.9 
+File_32,LLaVA Llama3 8B,F1-Score,80.8 ,99.4 
+File_33,Llama3 8B,F1-Score,75.4 ,96.6 
+File_34,Llama2 7B,F1-Score,82.8 ,97.3 
+File_35,Llama3 8B,Recall,76.4 ,99.1 
+File_36,Llama3.1 8B,Recall,82.2 ,95.1 
+File_37,LLaVA Llama3 8B,Recall,93.3 ,96.4 
+File_38,Llama3.1 8B,Precision,82.9 ,95.4 
+File_39,Llama3 8B,Precision,83.3 ,98.0 
+File_40,LLaVA Llama3 8B,Precision,70.4 ,95.7 
+File_41,Llama3.1 8B,Precision,88.6 ,97.3 
+File_42,LLaVA Llama3 8B,Recall,97.5 ,97.1 
+File_43,Llama3 8B,F1-Score,76.0 ,100.0 
+File_44,Llama3 8B,Recall,84.9 ,96.0 
+File_45,LLaVA Llama3 8B,Precision,75.0 ,97.1 
+File_46,Llama2 7B,Recall,92.6 ,97.9 
+File_47,Llama3 8B,Recall,99.0 ,96.3 
+File_48,LLaVA Llama3 8B,Precision,99.8 ,96.9 
+File_49,Llama3.1 8B,F1-Score,95.9 ,95.1 
+File_50,Llama2 7B,F1-Score,82.6 ,96.1 
+File_51,Llama3.1 8B,Recall,82.2 ,99.9 
+File_52,Llama2 7B,Precision,94.9 ,99.0 
+File_53,Llama2 13B,Recall,98.8 ,95.5 
+File_54,LLaVA Llama3 8B,F1-Score,73.2 ,96.7 
+File_55,Llama3.1 8B,F1-Score,72.8 ,98.7 
+File_56,Llama2 13B,Precision,91.4 ,97.5 
+File_57,Llama3 8B,F1-Score,73.6 ,96.2 
+File_58,Llama3 8B,Recall,82.1 ,99.7 
+File_59,Llama2 13B,Precision,73.9 ,96.0 
+File_60,Llama2 13B,F1-Score,70.8 ,97.7 
+File_61,LLaVA Llama3 8B,Recall,95.8 ,96.2 
+File_62,Llama3 8B,F1-Score,81.7 ,97.2 
+File_63,Llama2 7B,F1-Score,70.2 ,95.2 
+File_64,Llama2 7B,Precision,77.2 ,97.8 
+File_65,LLaVA Llama3 8B,Recall,78.8 ,99.9 
+File_66,Llama3 8B,Precision,91.4 ,96.4 
+File_67,Llama3 8B,Precision,99.0 ,96.6 
+File_68,Llama2 13B,Precision,95.0 ,97.3 
+File_69,Llama2 13B,Precision,71.8 ,99.0 
+File_70,Llama3.1 8B,Recall,95.1 ,97.1 
+File_71,Llama3.1 8B,Precision,90.7 ,99.6 
+File_72,LLaVA Llama3 8B,Precision,96.3 ,98.0 
+File_73,Llama3 8B,Recall,79.8 ,99.8 
+File_74,Llama3 8B,F1-Score,92.8 ,98.9 
+File_75,Llama3.1 8B,Recall,76.8 ,99.4 
+File_76,Llama2 7B,Precision,75.9 ,98.3 
+File_77,Llama3 8B,Precision,83.7 ,98.2 
+File_78,Llama3 8B,Recall,99.1 ,97.6 
+File_79,Llama3.1 8B,Recall,77.3 ,98.3 
+File_80,Llama3 8B,Precision,94.8 ,96.4 
+File_81,LLaVA Llama3 8B,Precision,80.8 ,97.2 
+File_82,LLaVA Llama3 8B,Precision,97.3 ,98.5 
+File_83,LLaVA Llama3 8B,Precision,97.5 ,98.0 
+File_84,Llama3 8B,Recall,93.1 ,99.5 
+File_85,Llama3.1 8B,Recall,86.9 ,95.1 
+File_86,Llama3.1 8B,Recall,74.5 ,96.0 
+File_87,Llama3 8B,Recall,72.2 ,96.5 
+File_88,Llama2 7B,F1-Score,79.4 ,99.5 
+File_89,Llama2 13B,Recall,99.9 ,97.1 
+File_90,Llama3.1 8B,F1-Score,72.0 ,97.3 
+File_91,Llama3 8B,F1-Score,90.2 ,99.5 
+File_92,LLaVA Llama3 8B,Precision,87.5 ,96.2 
+File_93,Llama3.1 8B,Precision,93.1 ,96.7 
+File_94,LLaVA Llama3 8B,Recall,74.1 ,95.9 
+File_95,LLaVA Llama3 8B,F1-Score,90.1 ,97.5 
+File_96,Llama3 8B,Recall,83.6 ,98.7 
+File_97,Llama3 8B,Precision,74.2 ,98.3 
+File_98,Llama3 8B,Recall,87.0 ,97.1 
+File_99,Llama2 13B,Recall,78.4 ,95.1 
+File_100,LLaVA Llama3 8B,Recall,72.2 ,95.4 
